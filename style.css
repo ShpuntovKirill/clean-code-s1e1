@@ -50,7 +50,9 @@
   padding: 0px;
 }
 
-.incomplete__item, .completed__item, .main__heading-h3 {
+.incomplete__item, 
+.completed__item, 
+.main__heading-h3 {
   list-style: none;
 }
 
