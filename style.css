@@ -50,9 +50,7 @@
   padding: 0px;
 }
 
-.incomplete__item,
-.completed__item,
-.main__heading-h3 {
+.incomplete__item, .completed__item, .main__heading-h3 {
   list-style: none;
 }
 
@@ -177,7 +175,7 @@
 }
 
 .edit-mode .main__input-text {
-  display: inline-block;
+  display:inline-block;
   width: 224px;
 }
 
